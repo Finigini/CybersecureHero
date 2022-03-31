@@ -8,3 +8,8 @@ else
 {
 	image_index = 0;
 }
+
+if messageAlpha > 0
+{
+	messageAlpha -= 0.01;
+}
